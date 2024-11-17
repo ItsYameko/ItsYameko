@@ -7,10 +7,10 @@
       <img width="25px" src="https://www.iconsdb.com/icons/preview/royal-blue/discord-2-xxl.png"/>
     </a>
     <a href="https://x.com/JustYameko">
-      <img width="25px" src="https://www.iconsdb.com/black-icons/twitter-x-icon.html"/>
+      <img width="25px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.png"/>
     </a>
     <a rel="me" href="https://instagram.com/matt.dife">
-      <img width="25px" src="https://www.iconsdb.com/barbie-pink-icons/instagram-icon.html"/>
+      <img width="25px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ig-instagram-icon.png"/>
     </a>
   </p>
 </h1>
