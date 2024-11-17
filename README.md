@@ -1,4 +1,3 @@
-# Yameko | Bio
 <h1 align="center">👋 Hi there, Welcome to my GitHub!
   <p align="center">
     <a href="https://t.me/tritofobico">
