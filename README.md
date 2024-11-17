@@ -44,3 +44,4 @@ Im Studyng Python and C++
 ![Yame's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsYameko&show_icons=true&theme=midnight-purple)
 
 ●━━━━━━━━━━━━━ 𓆩♡𓆪 ━━━━━━━━━━━━━●
+Credits: @literallyfiro <3
