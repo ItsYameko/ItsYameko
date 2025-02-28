@@ -33,7 +33,7 @@ Nationality: Italian
 
 ●━━━━━━━━━ Lang. Known ━━━━━━━━━●
 
-Im Studyng Python and C++
+Im Studyng Python and C++ (paused)
 
 (for now i know only the basic things)
 
